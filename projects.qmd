@@ -1,0 +1,21 @@
+---
+title: "Active Projects"
+---
+
+:::{.content-hidden when-format="pdf"}
+## Technology and Paranormal Investigation
+
+{{< include source_docs/_paranormal_project.qmd >}} 
+
+## ChatGPT
+
+{{< include source_docs/_chatgpt_project.qmd >}} 
+
+## Narratives of decision making
+
+{{< include source_docs/_prenatal_project.qmd >}}
+
+## Computational rhetoric
+
+{{< include source_docs/_computational_project.qmd >}}
+:::
